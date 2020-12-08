@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/428010f35e5add085103a5e77f839e8f/navigation-ui-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/780dca39713ff2fcf4eadcaf494ac982/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/witvault/.gradle/caches/transforms-2/files-2.1/213ad6fce5ea38e5799c707ff664b050/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/45e9019b6ccbd806981d1a208980f948/navigation-fragment-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/74b1c1eaf43d68012eb9e2c7eac88046/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/82e63553b4b022cfff1711ae9819aad4/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/727f4567341fcf59ba6ec2fbb4290436/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/43d28a6cb6aa3ef105d8e111681e9af4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1296f14384128f2399538597cc1f5274/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/a8ecbda6ffad5e6f54ae110042f6865e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/witvault/.gradle/caches/transforms-2/files-2.1/f27aeaa9b91ef9a11ef9cec7da98dadd/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c85e1f195321245fafe1a599b5dddf47/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/746e4b03b2795d4d75e7f11578e45840/navigation-runtime-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/41b8d659a9b5777956384975cf9ebd42/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/b610ee74b113a5e24d57455ee53efeb5/navigation-common-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/f52122426ed85128097908a2e58f6328/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/fa40148eab14a6d2386ba091992d3749/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3e3f3d50d38e11decf1394c1c71b0fc7/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3e0dd008a853f1a70d3d0f68ab22c9b7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/8b5e123a9c5293fd4e2ed3fcf992930f/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:1-122:12
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:5:5-120:19
+MERGED from [com.google.android.material:material:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/witvault/.gradle/caches/transforms-2/files-2.1/213ad6fce5ea38e5799c707ff664b050/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/witvault/.gradle/caches/transforms-2/files-2.1/213ad6fce5ea38e5799c707ff664b050/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/fa40148eab14a6d2386ba091992d3749/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/fa40148eab14a6d2386ba091992d3749/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:9:9-40
+	android:manageSpaceActivity
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:10:9-105
+	android:icon
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:6:9-36
+activity#app.web.twatest_123.twa.MainActivity
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:13:9-25:20
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:twatest.web.app+data:pathPrefix:/logout+data:scheme:app
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:14:13-24:29
+action#android.intent.action.VIEW
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:17:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:18:17-78
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:18:27-75
+data
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:20:17-23:52
+	android:host
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:22:21-51
+	android:scheme
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:21:21-41
+	android:pathPrefix
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:23:21-49
+meta-data#asset_statements
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:27:9-29:58
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:29:13-55
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:28:13-44
+meta-data#web_manifest_url
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:30:9-32:54
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:32:13-51
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:31:13-44
+meta-data#twa_generator
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:34:13-41
+activity#com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:37:19-100
+meta-data#android.support.customtabs.trusted.MANAGE_SPACE_URL
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:38:13-40:53
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:40:17-50
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:39:17-83
+activity#app.web.twatest_123.twa.LauncherActivity
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:42:9-94:20
+	android:screenOrientation
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:45:13-52
+	android:label
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:43:13-45
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:46:13-48:53
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:48:17-50
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:47:17-78
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:49:13-51:58
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:51:17-55
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:50:17-83
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:52:13-54:61
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:54:17-58
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:53:17-87
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:55:13-57:65
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:57:17-62
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:56:17-92
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:58:13-60:68
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:60:17-65
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:59:17-84
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:61:13-63:72
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:62:17-89
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:64:13-66:55
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:66:17-52
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:65:17-88
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:67:13-69:61
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:69:17-58
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:68:17-97
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:70:13-72:72
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:71:17-98
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:73:13-75:61
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:75:17-58
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:74:17-90
+meta-data#android.app.shortcuts
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:76:13-78:53
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:78:17-50
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:77:17-53
+meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:79:13-81:56
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:81:17-53
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:80:17-84
+meta-data#android.support.customtabs.trusted.DISPLAY_MODE
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:82:13-84:45
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:84:17-42
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:83:17-79
+meta-data#android.support.customtabs.trusted.SCREEN_ORIENTATION
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:85:13-87:55
+	android:value
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:87:17-52
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:86:17-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:89:13-93:29
+action#android.intent.action.MAIN
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:90:17-69
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:90:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:92:27-74
+activity#com.google.androidbrowserhelper.trusted.FocusActivity
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:95:9-90
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:95:19-87
+activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:96:9-98:62
+	android:configChanges
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:98:13-59
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:97:13-91
+provider#androidx.core.content.FileProvider
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:100:9-108:20
+	android:grantUriPermissions
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:104:13-47
+	android:authorities
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:102:13-60
+	android:exported
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:101:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:105:13-107:53
+	android:resource
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:107:17-50
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:106:17-67
+service#app.web.twatest_123.twa.DelegationService
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:110:9-119:19
+	android:enabled
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:112:13-55
+	android:exported
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:113:13-56
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:111:13-46
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:114:13-118:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:115:17-106
+	android:name
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:115:25-103
+uses-sdk
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/428010f35e5add085103a5e77f839e8f/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/428010f35e5add085103a5e77f839e8f/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/780dca39713ff2fcf4eadcaf494ac982/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/780dca39713ff2fcf4eadcaf494ac982/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/witvault/.gradle/caches/transforms-2/files-2.1/213ad6fce5ea38e5799c707ff664b050/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/witvault/.gradle/caches/transforms-2/files-2.1/213ad6fce5ea38e5799c707ff664b050/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/45e9019b6ccbd806981d1a208980f948/navigation-fragment-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/45e9019b6ccbd806981d1a208980f948/navigation-fragment-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/74b1c1eaf43d68012eb9e2c7eac88046/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/74b1c1eaf43d68012eb9e2c7eac88046/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/82e63553b4b022cfff1711ae9819aad4/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/82e63553b4b022cfff1711ae9819aad4/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/727f4567341fcf59ba6ec2fbb4290436/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/727f4567341fcf59ba6ec2fbb4290436/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/43d28a6cb6aa3ef105d8e111681e9af4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/43d28a6cb6aa3ef105d8e111681e9af4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1296f14384128f2399538597cc1f5274/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1296f14384128f2399538597cc1f5274/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/a8ecbda6ffad5e6f54ae110042f6865e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/a8ecbda6ffad5e6f54ae110042f6865e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/witvault/.gradle/caches/transforms-2/files-2.1/f27aeaa9b91ef9a11ef9cec7da98dadd/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/witvault/.gradle/caches/transforms-2/files-2.1/f27aeaa9b91ef9a11ef9cec7da98dadd/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c85e1f195321245fafe1a599b5dddf47/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/c85e1f195321245fafe1a599b5dddf47/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/746e4b03b2795d4d75e7f11578e45840/navigation-runtime-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/746e4b03b2795d4d75e7f11578e45840/navigation-runtime-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/41b8d659a9b5777956384975cf9ebd42/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/41b8d659a9b5777956384975cf9ebd42/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/b610ee74b113a5e24d57455ee53efeb5/navigation-common-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] /home/witvault/.gradle/caches/transforms-2/files-2.1/b610ee74b113a5e24d57455ee53efeb5/navigation-common-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/f52122426ed85128097908a2e58f6328/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/f52122426ed85128097908a2e58f6328/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/fa40148eab14a6d2386ba091992d3749/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/fa40148eab14a6d2386ba091992d3749/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3e3f3d50d38e11decf1394c1c71b0fc7/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3e3f3d50d38e11decf1394c1c71b0fc7/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3e0dd008a853f1a70d3d0f68ab22c9b7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/3e0dd008a853f1a70d3d0f68ab22c9b7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/8b5e123a9c5293fd4e2ed3fcf992930f/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/8b5e123a9c5293fd4e2ed3fcf992930f/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:26:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:27:9-33:18

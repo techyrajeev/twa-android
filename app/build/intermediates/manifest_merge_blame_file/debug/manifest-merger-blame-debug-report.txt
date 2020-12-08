@@ -1,0 +1,260 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.web.twatest_123.twa"
+4    android:versionCode="1"
+5    android:versionName="1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->[com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:26:5-34:15
+12        <intent>
+12-->[com.google.androidbrowserhelper:androidbrowserhelper:2.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/0a4a7f0b1ecd599438c2ae563057628e/androidbrowserhelper-2.1.0/AndroidManifest.xml:27:9-33:18
+13            <action android:name="android.intent.action.VIEW" />
+13-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:15:17-69
+13-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:15:25-66
+14
+15            <category android:name="android.intent.category.BROWSABLE" />
+15-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:18:17-78
+15-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:18:27-75
+16
+17            <data android:scheme="https" />
+17-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:20:17-23:52
+17-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:21:21-41
+18        </intent>
+19    </queries>
+20
+21    <application
+21-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:5:5-120:19
+22        android:name="app.web.twatest_123.twa.Application"
+22-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:6:9-36
+23        android:allowBackup="true"
+23-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:7:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /home/witvault/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:8:9-43
+27        android:label="@string/appName"
+27-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:9:9-40
+28        android:manageSpaceActivity="com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity"
+28-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:10:9-105
+29        android:supportsRtl="true"
+29-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:11:9-35
+30        android:testOnly="true"
+31        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+31-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:12:9-68
+32        <activity android:name="app.web.twatest_123.twa.MainActivity" >
+32-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:13:9-25:20
+32-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:13:19-47
+33            <intent-filter>
+33-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:14:13-24:29
+34                <action android:name="android.intent.action.VIEW" />
+34-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:15:17-69
+34-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:15:25-66
+35
+36                <category android:name="android.intent.category.DEFAULT" />
+36-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:17:17-76
+36-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:17:27-73
+37                <category android:name="android.intent.category.BROWSABLE" />
+37-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:18:17-78
+37-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:18:27-75
+38
+39                <data
+39-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:20:17-23:52
+40                    android:host="twatest.web.app"
+40-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:22:21-51
+41                    android:pathPrefix="/logout"
+41-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:23:21-49
+42                    android:scheme="app" />
+42-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:21:21-41
+43            </intent-filter>
+44        </activity>
+45
+46        <meta-data
+46-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:27:9-29:58
+47            android:name="asset_statements"
+47-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:28:13-44
+48            android:resource="@string/assetStatements" />
+48-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:29:13-55
+49        <meta-data
+49-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:30:9-32:54
+50            android:name="web_manifest_url"
+50-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:31:13-44
+51            android:value="@string/webManifestUrl" />
+51-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:32:13-51
+52        <meta-data
+52-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:33:9-35:52
+53            android:name="twa_generator"
+53-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:34:13-41
+54            android:value="@string/generatorApp" />
+54-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:35:13-49
+55
+56        <activity android:name="com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity" >
+56-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:37:9-41:20
+56-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:37:19-100
+57            <meta-data
+57-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:38:13-40:53
+58                android:name="android.support.customtabs.trusted.MANAGE_SPACE_URL"
+58-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:39:17-83
+59                android:value="@string/launchUrl" />
+59-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:40:17-50
+60        </activity>
+61        <activity
+61-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:42:9-94:20
+62            android:name="app.web.twatest_123.twa.LauncherActivity"
+62-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:43:13-45
+63            android:label="@string/launcherName"
+63-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:44:13-49
+64            android:screenOrientation="unspecified" >
+64-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:45:13-52
+65            <meta-data
+65-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:46:13-48:53
+66                android:name="android.support.customtabs.trusted.DEFAULT_URL"
+66-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:47:17-78
+67                android:value="@string/launchUrl" />
+67-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:48:17-50
+68            <meta-data
+68-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:49:13-51:58
+69                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
+69-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:50:17-83
+70                android:resource="@color/colorPrimary" />
+70-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:51:17-55
+71            <meta-data
+71-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:52:13-54:61
+72                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
+72-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:53:17-87
+73                android:resource="@color/navigationColor" />
+73-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:54:17-58
+74            <meta-data
+74-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:55:13-57:65
+75                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK"
+75-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:56:17-92
+76                android:resource="@color/navigationColorDark" />
+76-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:57:17-62
+77            <meta-data
+77-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:58:13-60:68
+78                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR"
+78-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:59:17-84
+79                android:resource="@color/navigationDividerColor" />
+79-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:60:17-65
+80            <meta-data
+80-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:61:13-63:72
+81                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK"
+81-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:62:17-89
+82                android:resource="@color/navigationDividerColorDark" />
+82-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:63:17-69
+83            <meta-data
+83-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:64:13-66:55
+84                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
+84-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:65:17-88
+85                android:resource="@drawable/splash" />
+85-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:66:17-52
+86            <meta-data
+86-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:67:13-69:61
+87                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
+87-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:68:17-97
+88                android:resource="@color/backgroundColor" />
+88-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:69:17-58
+89            <meta-data
+89-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:70:13-72:72
+90                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
+90-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:71:17-98
+91                android:value="@integer/splashScreenFadeOutDuration" />
+91-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:72:17-69
+92            <meta-data
+92-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:73:13-75:61
+93                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
+93-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:74:17-90
+94                android:value="@string/providerAuthority" />
+94-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:75:17-58
+95            <meta-data
+95-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:76:13-78:53
+96                android:name="android.app.shortcuts"
+96-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:77:17-53
+97                android:resource="@xml/shortcuts" />
+97-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:78:17-50
+98            <meta-data
+98-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:79:13-81:56
+99                android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
+99-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:80:17-84
+100                android:value="@string/fallbackType" />
+100-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:81:17-53
+101            <meta-data
+101-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:82:13-84:45
+102                android:name="android.support.customtabs.trusted.DISPLAY_MODE"
+102-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:83:17-79
+103                android:value="immersive" />
+103-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:84:17-42
+104            <meta-data
+104-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:85:13-87:55
+105                android:name="android.support.customtabs.trusted.SCREEN_ORIENTATION"
+105-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:86:17-85
+106                android:value="@string/orientation" />
+106-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:87:17-52
+107
+108            <intent-filter>
+108-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:89:13-93:29
+109                <action android:name="android.intent.action.MAIN" />
+109-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:90:17-69
+109-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:90:25-66
+110
+111                <category android:name="android.intent.category.LAUNCHER" />
+111-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:92:17-77
+111-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:92:27-74
+112            </intent-filter>
+113        </activity>
+114        <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
+114-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:95:9-90
+114-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:95:19-87
+115        <activity
+115-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:96:9-98:62
+116            android:name="com.google.androidbrowserhelper.trusted.WebViewFallbackActivity"
+116-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:97:13-91
+117            android:configChanges="orientation|screenSize" />
+117-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:98:13-59
+118
+119        <provider
+119-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:100:9-108:20
+120            android:name="androidx.core.content.FileProvider"
+120-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:101:13-62
+121            android:authorities="@string/providerAuthority"
+121-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:102:13-60
+122            android:exported="false"
+122-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:103:13-37
+123            android:grantUriPermissions="true" >
+123-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:104:13-47
+124            <meta-data
+124-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:105:13-107:53
+125                android:name="android.support.FILE_PROVIDER_PATHS"
+125-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:106:17-67
+126                android:resource="@xml/filepaths" />
+126-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:107:17-50
+127        </provider>
+128
+129        <service
+129-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:110:9-119:19
+130            android:name="app.web.twatest_123.twa.DelegationService"
+130-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:111:13-46
+131            android:enabled="@bool/enableNotification"
+131-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:112:13-55
+132            android:exported="@bool/enableNotification" >
+132-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:113:13-56
+133            <intent-filter>
+133-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:114:13-118:29
+134                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
+134-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:115:17-106
+134-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:115:25-103
+135
+136                <category android:name="android.intent.category.DEFAULT" />
+136-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:17:17-76
+136-->/home/witvault/dev/twa-android/app/src/main/AndroidManifest.xml:17:27-73
+137            </intent-filter>
+138        </service>
+139    </application>
+140
+141</manifest>

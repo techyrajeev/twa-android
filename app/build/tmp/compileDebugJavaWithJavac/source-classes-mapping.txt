@@ -1,0 +1,16 @@
+app/web/twatest_123/twa/SecondFragment.java
+ app.web.twatest_123.twa.SecondFragment
+ app.web.twatest_123.twa.SecondFragment$1
+app/web/twatest_123/twa/BuildConfig.java
+ app.web.twatest_123.twa.BuildConfig
+app/web/twatest_123/twa/LauncherActivity.java
+ app.web.twatest_123.twa.LauncherActivity
+app/web/twatest_123/twa/FirstFragment.java
+ app.web.twatest_123.twa.FirstFragment
+ app.web.twatest_123.twa.FirstFragment$1
+app/web/twatest_123/twa/Application.java
+ app.web.twatest_123.twa.Application
+app/web/twatest_123/twa/DelegationService.java
+ app.web.twatest_123.twa.DelegationService
+app/web/twatest_123/twa/MainActivity.java
+ app.web.twatest_123.twa.MainActivity

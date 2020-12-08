@@ -1,0 +1,35 @@
+{
+  "packageId": "app.web.twatest_123.twa",
+  "host": "twatest-123.web.app",
+  "name": "PWA Starter",
+  "launcherName": "starter",
+  "display": "fullscreen",
+  "themeColor": "#E1477E",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#E1477E",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://twatest-123.web.app/assets/icons/icon_512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/home/witvault/dev/android/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://twatest-123.web.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "default",
+  "appVersion": "1"
+}
